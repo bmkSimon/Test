@@ -1,0 +1,1 @@
+This is a test file where I am trying out different things as I learn them. I am trying different HTML commands to make a web page. As I learn more, I will add CSS and javascript to the project just to play around with how various things work and how the changes I make impact the final page.
